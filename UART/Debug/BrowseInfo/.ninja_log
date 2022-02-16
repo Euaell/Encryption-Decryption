@@ -1,0 +1,80 @@
+# ninja log v5
+43	370	6666910810000000	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/system.xcl	507ef870c1116d5b
+83	479	6666910810000000	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.xcl	7c3bf790c4d86ce6
+2	417	6666910810000000	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.xcl	a59a8922181fdb0e
+382	758	6666910816895284	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/system.pbi	d4f8f6cc8919e588
+2	508	6667157271686079	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+1	202	6667123844229181	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbi	6aad4f23ede1a289
+602	1738	6667157284581238	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+529	584	6667157273408439	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+2	272	6667157758777589	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+280	349	6667157760731577	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+359	1789	6667157774382472	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+23	288	6667160023035510	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbi	6aad4f23ede1a289
+1	344	6667160023686368	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+356	421	6667160025178891	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+435	1896	6667160039440455	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+6	261	6667160511939674	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+272	315	6667160513438073	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+346	1505	6667160523580241	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+2	213	6667162509461132	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+225	277	6667162510793932	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+296	1457	6667162520609927	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+13	466	6667163254962588	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+500	649	6667163257961313	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+684	2510	6667163275474352	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+2	293	6667167525744996	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbi	6aad4f23ede1a289
+303	368	6667167527296447	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+421	1814	6667167541414359	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+4	238	6667168001091081	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+243	309	6667168002725391	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+318	1358	6667168011570102	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+2	224	6667168369770145	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+237	280	6667168371045980	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+297	1296	6667168380353067	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+2	265	6667175429891595	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbi	6aad4f23ede1a289
+312	384	6667175431870620	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+403	1455	6667175440570468	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+12	602	6667176111929345	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbi	6aad4f23ede1a289
+611	689	6667176113472143	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+706	1696	6667176122102206	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+1	279	6667176380136421	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbi	6aad4f23ede1a289
+290	349	6667176381675051	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+362	1338	6667176391128829	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+2	230	6667177109189315	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+236	288	6667177110431871	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+323	1308	6667177119117587	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+1	172	6667180684494725	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+11	217	6667180684811151	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbi	6aad4f23ede1a289
+223	261	6667180685967388	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+271	1076	6667180693080326	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+11	198	6667181355614539	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+1	205	6667181355705487	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbi	6aad4f23ede1a289
+211	253	6667181356765242	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+259	1052	6667181363984287	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+2	188	6667181669589814	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbi	6aad4f23ede1a289
+194	226	6667181670588231	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+236	1010	6667181676425831	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+2	153	6667182847543555	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+159	189	6667182848392893	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+198	971	6667182854872077	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+1	158	6667184383743597	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+169	204	6667184384688238	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+214	1014	6667184392283422	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+1	178	6667184597039799	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+185	213	6667184597977389	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+221	1080	6667184604606203	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+1	155	6667185369303874	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/main.pbi	5f70a2cbd445b216
+164	198	6667185370229024	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbd	4c4d162b13f2fa11
+208	960	6667185377430124	C:/Users/euael/OneDrive/Desktop/Interface/Lab exp files/Lab2 - UART Serial Port/Lab2 - UART Serial Port/UART/Debug/BrowseInfo/uart.pbw	c9a1e590b9e67604
+91	383	6667427560000000	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/system.xcl	937a3811da41a43f
+104	406	6667427560000000	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/uart.xcl	e7bc409cc22c2b22
+63	420	6667427560000000	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/main.xcl	a7a64c325ebe3da9
+427	625	6667427562749242	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/main.pbi	8bc760cc0840e37c
+390	642	6667427562871419	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/system.pbi	5c5fd8e4bbd9acac
+413	647	6667427562911424	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/uart.pbi	e2343b43e7bc3e84
+650	685	6667427563873170	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/uart.pbd	8c3c2378526dd746
+693	1542	6667427572220280	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/uart.pbw	a2c511090362a0c8
+2	152	6667431635185048	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/main.pbi	8bc760cc0840e37c
+162	196	6667431636096231	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/uart.pbd	8c3c2378526dd746
+205	989	6667431642456293	C:/Users/euael/OneDrive/Desktop/Interface/Encryption Decryption/UART/Debug/BrowseInfo/uart.pbw	a2c511090362a0c8
